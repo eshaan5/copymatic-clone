@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/copymatic-clone/precache-manifest.29b8d0045490d58dd4b4714040cd282f.js"
+  "/copymatic-clone/precache-manifest.eed62628902893fb764d137625c32970.js"
 );
 
 workbox.clientsClaim();

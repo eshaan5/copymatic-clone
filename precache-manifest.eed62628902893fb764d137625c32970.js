@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/copymatic-clone/static/media/logo.9564ceb2.png"
   },
   {
-    "revision": "4885e6366d5642087089674fc9ead8bf",
+    "revision": "3dcc3623d5f0ec950b0a55b5fa2c015d",
     "url": "/copymatic-clone/index.html"
   }
 ];
