@@ -1,0 +1,14 @@
+.card {
+  width: max-content;
+  background: #fff;
+  /* margin: 2vw; */
+  width: 20vw;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+  .card {
+    width: 42vw;
+  }
+}
